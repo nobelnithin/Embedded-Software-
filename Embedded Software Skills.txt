@@ -1,0 +1,23 @@
+Embedded Software Skills
+Key skills similar to what an embedded software engineer should have:
+Microcontrollers, or MCUs
+C and C++
+Real-time Operating Systems (RTOS)
+Device drivers, including Linux
+Linux operating system
+Communication Protocols
+Interface buses like I2C and SPI
+General-purpose input/output, or GPIOs
+Microprocessor technology, including the latest processors
+Additional technical skills an embedded systems engineering should have include:
+Deep experience with both hardware and software
+Understand design patterns and embedded system design patterns
+GNU Project debugger, including both local and remote debugging
+MATLAB programming language and MATLAB modeling (if your organization uses MATLAB)
+Design patterns
+Multiprocessor design
+Multi-subsystem issues
+Python programming language
+Open-source software
+Wireless connectivity, including Wi-Fi and Bluetooth low energy (BLE)
+Unified Modeling Language
